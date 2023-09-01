@@ -1,6 +1,6 @@
 # Code for "Taken out of context: On measuring situational awareness in LLMs"
 
-Note that this is a cleaned up minimal version of our original codebase, without a proper commit history. Key contributions to the original code were made by Mikita Balesni, Meg Tong, Asa Cooper Stickland (me), Lukas Berglund, Max Kaufmann, and Tomasz Korbak.
+Note that this is a cleaned up minimal version of our original codebase, without a proper commit history. Key contributions to the original code were made by Mikita Balesni, Meg Tong, Asa Cooper Stickland, Lukas Berglund, Max Kaufmann, and Tomasz Korbak.
 
 This repo allows:
 - [X] Reproducing Experiment 1b (1-hop out-of-context instruction following)
